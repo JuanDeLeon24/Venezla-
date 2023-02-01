@@ -278,7 +278,7 @@ body {
 }
 .componente:nth-child(1) .componente-fundo-imagem:before {
   transition-delay: 0s;
-  background-image: url("images/ic-html.jpg");
+  background-image: url("images/barba.jpg");
 }
 .componente:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -295,7 +295,7 @@ body {
 }
 .componente:nth-child(2) .componente-fundo-imagem:before {
   transition-delay: 0.1s;
-  background-image: url("images/ic-css.jpg");
+  background-image: url("images/exfoliacion.jpg");
 }
 .componente:nth-child(3) {
   transform: translate3d(210.4166666667%, 0, 0);
@@ -312,7 +312,7 @@ body {
 }
 .componente:nth-child(3) .componente-fundo-imagem:before {
   transition-delay: 0.2s;
-  background-image: url("images/ic-javascript.jpg");
+  background-image: url("images/tinte.jpg");
 }
 .componente:nth-child(4) {
   transform: translate3d(315.625%, 0, 0);
@@ -329,7 +329,7 @@ body {
 }
 .componente:nth-child(4) .componente-fundo-imagem:before {
   transition-delay: 0.3s;
-  background-image: url("images/ic-git.jpg");
+  background-image: url("images/asesoria.jpg");
 }
 .componente:nth-child(5) {
   transform: translate3d(420.8333333333%, 0, 0);
@@ -346,7 +346,7 @@ body {
 }
 .componente:nth-child(5) .componente-fundo-imagem:before {
   transition-delay: 0.4s;
-  background-image: url("images/ic-react.jpg");
+  background-image: url("images/queratina.jpg");
 }
 .componente:hover .componente-fundo-imagem:after {
   opacity: 0;
